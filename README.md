@@ -1,2 +1,2 @@
 # 03Automobile-Data_Car-Price-Prediction
- Car price prediction model
+ Predict price of car using different machine learning models.
